@@ -1,0 +1,33 @@
+# Carpeta de salida de compilación
+*/bin/
+*/obj/
+
+# Carpeta de archivos temporales de Visual Studio
+.vscode/
+.vs/
+*.suo
+*.user
+*.sln.docstates
+
+# Carpeta de paquetes NuGet
+*/packages/
+
+# Archivos de configuración de usuario
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Log y archivos temporales
+*.log
+*.backup
+*.bak
+*.cache
+*.log.*
+*.pidb
+*.user
+
+# Archivos de proyecto específicos de Visual Studio
+*.csproj.user
+*.csproj.*
+
