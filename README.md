@@ -10,5 +10,5 @@ Este es un proyecto de gestión de productos de ventas creado con Windows Forms,
 
 ## Vista previa del proyecto
 
-![preview](https://github.com/meyer-pidiache/MeyerSStore/media/preview.gif)
+![preview](https://github.com/meyer-pidiache/MeyerSStore/blob/main/media/preview.gif)
 
